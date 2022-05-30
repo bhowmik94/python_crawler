@@ -1,0 +1,1640 @@
+[
+    {
+        "url": "https://www.prothomalo.com/",
+        "method": "GET",
+        "headers": {
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/app-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/home-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/home~list~story-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/home~list-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/vendors~home~list-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/footer-97fcffdfcdfd8294fcb2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": true
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/aax2/apstag.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.gumlet.com/gumlet.js/2.0/gumlet.min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://ade.clmbtech.com/cde/eventTracking.htm?pixelId=11034&_w=1&rd=1653677071845",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TDCC7GQ",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/default-card-image-31d7699de5f98c1d195b.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-6a682f6f610beeda14f0.woff2",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "Origin": "https://www.prothomalo.com",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-ef9e058ccc3a98d85030.woff2",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "Origin": "https://www.prothomalo.com",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxM.woff",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "Origin": "https://www.prothomalo.com",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://images.prothomalo.com/prothomalo-bangla/2022-05/6325b2c3-54a5-4f7e-be60-6779b53c0ce8/image.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.prothomalo.com&pubid=559805e2-e4b7-4d17-b7ef-724d907693ef",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/e/dtb/bid?src=600&u=https%3A%2F%2Fwww.prothomalo.com%2F&pid=D4Aw4859h41m2&cb=0&ws=800x600&v=7.75.0&t=2000&slots=%5B%7B%22sd%22%3A%22header-ad%22%2C%22s%22%3A%5B%22970x90%22%2C%22728x90%22%2C%22468x60%22%2C%22320x100%22%2C%22320x50%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_728x90_T1%22%7D%2C%7B%22sd%22%3A%22home_r1%22%2C%22s%22%3A%5B%22300x250%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_336x280_R1%22%7D%2C%7B%22sd%22%3A%22home_b1%22%2C%22s%22%3A%5B%22970x250%22%2C%22970x90%22%2C%22728x90%22%2C%22468x60%22%2C%22300x250%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_468x60_B1%22%7D%2C%7B%22sd%22%3A%22home_r2%22%2C%22s%22%3A%5B%22300x250%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_336x280_R2%22%7D%2C%7B%22sd%22%3A%22home_r3%22%2C%22s%22%3A%5B%22320x250%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_336x280_R3%22%7D%2C%7B%22sd%22%3A%22home_b2%22%2C%22s%22%3A%5B%22970x250%22%2C%22970x90%22%2C%22728x90%22%2C%22468x60%22%2C%22300x250%22%5D%2C%22sn%22%3A%22%2F85406138%2FHome_728x90_B2%22%7D%2C%7B%22sd%22%3A%22breaking-news-slider-ad%22%2C%22s%22%3A%5B%22970x90%22%2C%22970x66%22%2C%22728x90%22%2C%22468x60%22%2C%22360x60%22%2C%22320x50%22%5D%2C%22sn%22%3A%22%2F85406138%2FMobile_HP_Anchor%22%7D%5D&pubid=559805e2-e4b7-4d17-b7ef-724d907693ef&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-C4T51Z1NR8&l=dataLayer&cx=c",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google-analytics.com/analytics.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j96&a=1225848476&t=pageview&_s=1&dl=https%3A%2F%2Fwww.prothomalo.com%2F&ul=en-us&de=UTF-8&dt=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%20%E0%A6%86%E0%A6%B2%E0%A7%8B%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%20%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B0&sd=24-bit&sr=800x600&vp=783x600&je=0&_u=QACAAEAB~&jid=&gjid=&cid=245044883.1653633798&tid=UA-11355905-1&_gid=1608392930.1653633798&gtm=2wg5p1TDCC7GQ&z=84975782",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=UA-11355905-1&l=dataLayer&cx=c",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://clientcdn.pushengage.com/core/61a71ead19398fba5514eb0ef83d600c.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-smaato_n-Beeswax_ox-db5_n-amobee_n-Outbrain",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.prothomalo.com/feapi/push-engage-notifications?limit=4&offset=0",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://www.prothomalo.com/api/auth/v1/users/me",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://assets.prothomalo.com/prothomalo/assets/palo-bangla-bb996cdb70d2e0ccec8c.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.prothomalo.com/api/v1/collections/breaking-news?fields=headline,url,metadata",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://connect.facebook.net/en_US/fbevents.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.prothomalo.com/prothomalo/assets/sprite-cf44b8c237a4686d4851e74e58b2d54a.svg",
+        "urlFragment": "#video-whitebg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "method": "GET",
+        "headers": {
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://connect.facebook.net/signals/config/367104151095918?v=2.9.61&r=stable",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022052501.js?cb=31067788",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.prothomalo.com",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-smaato_n-Beeswax_ox-db5_n-amobee_n-Outbrain&dcc=t",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.facebook.com/tr/?id=367104151095918&ev=PageView&dl=https%3A%2F%2Fwww.prothomalo.com%2F&rl=&if=false&ts=1653677074913&sw=800&sh=600&v=2.9.61&r=stable&ec=0&o=158&fbp=fb.1.1653633800862.583593671&it=1653677074830&coo=false&exp=p0&rqm=GET",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.prothomalo.com/qlitics.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://adservice.google.com/adsid/integrator.js?domain=www.prothomalo.com",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isLinkPreload": true,
+        "isSameSite": false
+    },
+    {
+        "url": "https://images.prothomalo.com/prothomalo-bangla%2F2022-05%2Fdc0bc000-7dbe-4c4c-8f7c-58388b74fae5%2FRab_Attacked.jpeg?rect=0%2C0%2C1440%2C960&auto=format%2Ccompress&fmt=webp&format=webp&w=800&dpr=1.0",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": true
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=1202429852472949&correlator=2975841201904760&eid=31067788%2C44761478%2C31062931&output=ldjh&gdfp_req=1&vrg=2022052501&ptt=17&impl=fifs&iu_parts=85406138%2Chome_Int_660x440%2CHP_Takeover_1x1%2CHome_336x280_R1%2CHome_468x60_B1&enc_prev_ius=0%2F1%2C0%2F2%2C0%2F3%2C0%2F4&prev_iu_szs=1x1%2C1x1%2C300x250%2C300x250&ifi=1&adks=3086441741%2C282595907%2C3525989673%2C628069938&sfv=1-0-38&ecs=20220527&ists=8&fsapi=false&prev_scp=pageType%3Dhome-page%26environment%3Dprod%26storyType%3DNA%26section%3DNA%26storyId%3DNA%26collectionSlug%3DDefaultCollection%26layoutName%3DDefaultLayout%7CpageType%3Dhome-page%26environment%3Dprod%26storyType%3DNA%26section%3DNA%26storyId%3DNA%26collectionSlug%3DDefaultCollection%26layoutName%3DDefaultLayout%7CpageType%3Dhome-page%26environment%3Dprod%26storyType%3DNA%26section%3DNA%26storyId%3DNA%26collectionSlug%3D%252Fcollection%252Ffeatured%26layoutName%3DHomeFeaturedR1Ads%7CpageType%3Dhome-page%26environment%3Dprod%26storyType%3DNA%26section%3DNA%26storyId%3DNA%26collectionSlug%3D%252Fcollection%252Ffeatured%26layoutName%3DHomeFeatured&sc=1&cookie=ID%3D7097f8cfaf981d8c%3AT%3D1653633802%3AS%3DALNI_MaVH1fOlNVHPbxDIyK25dPn0dV_Qw&gpic=UID%3D000005d5f77e06ed%3AT%3D1653633802%3ART%3D1653677072%3AS%3DALNI_MYAARPAEn4CyEmUqkJYLWLnHgZ6hw&abxe=1&dt=1653677075067&lmt=1653677075&dlt=1653677070894&idt=4059&biw=783&bih=600&adxs=16%2C16%2C242%2C242&adys=184%2C184%2C865%2C4150&ucis=1%7C2%7C3%7C4&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=8&bc=31&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIixbXSxmYWxzZV0.&nvt=1&url=https%3A%2F%2Fwww.prothomalo.com%2F&frm=20&vis=1&scr_x=0&scr_y=0&psz=751x0%7C751x0%7C300x0%7C300x0&msz=751x0%7C751x0%7C300x0%7C300x0&fws=4%2C4%2C4%2C4&ohw=751%2C751%2C300%2C300&ga_vid=245044883.1653633798&ga_sid=1653677075&ga_hid=1225848476&ga_fc=true&ga_cid=1608392930.1653633798&btvi=0%7C0%7C1%7C2",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=1202429852472949&correlator=2975841201904760&eid=31067788%2C44761478%2C31062931&output=ldjh&gdfp_req=1&vrg=2022052501&ptt=17&impl=fifs&iu_parts=85406138%2CHome_728x90_T1&enc_prev_ius=0%2F1&prev_iu_szs=320x100%7C320x50&ifi=5&adks=2087344971&sfv=1-0-38&ecs=20220527&fsapi=false&prev_scp=pageType%3Dhome-page%26environment%3Dprod%26storyType%3DNA%26section%3DNA%26storyId%3DNA%26collectionSlug%3DDefaultCollection%26layoutName%3DDefaultLayout&sc=1&cookie=ID%3D7097f8cfaf981d8c%3AT%3D1653633802%3AS%3DALNI_MaVH1fOlNVHPbxDIyK25dPn0dV_Qw&gpic=UID%3D000005d5f77e06ed%3AT%3D1653633802%3ART%3D1653677072%3AS%3DALNI_MYAARPAEn4CyEmUqkJYLWLnHgZ6hw&abxe=1&dt=1653677075100&lmt=1653677075&dlt=1653677070894&idt=4059&biw=783&bih=600&adxs=232&adys=74&ucis=5&oid=2&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&u_tz=360&dmc=8&bc=31&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIixbXSxmYWxzZV0.&nvt=1&url=https%3A%2F%2Fwww.prothomalo.com%2F&frm=20&vis=1&scr_x=0&scr_y=0&psz=320x0&msz=320x0&fws=4&ohw=320&ga_vid=245044883.1653633798&ga_sid=1653677075&ga_hid=1225848476&ga_fc=true&ga_cid=1608392930.1653633798&btvi=0",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://prod-analytics.qlitics.com/api/device-tracker-id",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://prod-analytics.qlitics.com/api/f86818cc-47a8-4852-ac26-f9a810450a72/capture.gif?data=eyJldmVudC10eXBlIjoicGFnZS12aWV3IiwiZXZlbnQiOnsiaWQiOiIwYjc3ZDdiZC0yNDhiLTQyNjctOGFlNS1lOTFmMWE1NWFhZjUiLCJzZXNzaW9uLWV2ZW50LWlkIjoiYjA5YzM5NjQtODRkYS00ZDRmLTkxMzItNGIzNmM3YzNjZjIyIiwidXJsIjoiaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20vIiwicmVmZXJyZXIiOiIiLCJwYWdlLXR5cGUiOiJob21lIiwicHVibGlzaGVyLWlkIjoxMTU3fX0=",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.facebook.com/tr/",
+        "method": "POST",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": "",
+            "Content-Type": "multipart/form-data; boundary=----WebKitFormBoundary0u0WxcjgeTscCSUN"
+        },
+        "postData": "------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"id\"\r\n\r\n367104151095918\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"ev\"\r\n\r\nMicrodata\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"dl\"\r\n\r\nhttps://www.prothomalo.com/\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"rl\"\r\n\r\n\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"if\"\r\n\r\nfalse\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"ts\"\r\n\r\n1653677075422\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"cd[DataLayer]\"\r\n\r\n[]\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"cd[Meta]\"\r\n\r\n{\"title\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb | \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09c7\u09aa\u09be\u09b0\",\"meta:description\":\"\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09b8\u09b9 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u09b8\u0982\u09ac\u09be\u09a6 \u09b6\u09bf\u09b0\u09cb\u09a8\u09be\u09ae, \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09c7\u09a6\u09a8, \u09ac\u09bf\u09b6\u09cd\u09b2\u09c7\u09b7\u09a3, \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09a8\u09cb\u09a6\u09a8, \u099a\u09be\u0995\u09b0\u09bf, \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf \u0993 \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af\u09c7\u09b0 \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09dc\u09a4\u09c7 \u09ad\u09bf\u099c\u09bf\u099f \u0995\u09b0\u09c1\u09a8\u0964\",\"meta:keywords\":\"Prothom Alo, bangla news, current News, bangla newspaper, bangladesh newspaper, online paper, bangladeshi newspaper, bangla news paper, bangladesh newspapers, newspaper, all bangla news paper, bd news paper, news paper, bangladesh news paper, daily, bangla newspaper, daily news paper, bangladeshi news paper, bangla paper, all bangla newspaper, bangladesh news, daily newspaper, \u0985\u09a8\u09b2\u09be\u0987\u09a8, \u09aa\u09a4\u09cd\u09b0\u09bf\u0995\u09be, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6, \u0986\u099c\u0995\u09c7\u09b0 \u09aa\u09a4\u09cd\u09b0\u09bf\u0995\u09be, \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995, \u0985\u09b0\u09cd\u09a5\u09a8\u09c0\u09a4\u09bf, \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09a8\u09cb\u09a6\u09a8, \u09ab\u09bf\u099a\u09be\u09b0, \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u0993 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf, \u099a\u09b2\u099a\u09cd\u099a\u09bf\u09a4\u09cd\u09b0, \u09a2\u09be\"}\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"cd[OpenGraph]\"\r\n\r\n{\"og:type\":\"website\",\"og:title\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb | \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09c7\u09aa\u09be\u09b0\",\"og:description\":\"\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09b8\u09b9 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u09b8\u0982\u09ac\u09be\u09a6 \u09b6\u09bf\u09b0\u09cb\u09a8\u09be\u09ae, \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09c7\u09a6\u09a8, \u09ac\u09bf\u09b6\u09cd\u09b2\u09c7\u09b7\u09a3, \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09a8\u09cb\u09a6\u09a8, \u099a\u09be\u0995\u09b0\u09bf, \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf \u0993 \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af\u09c7\u09b0 \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09dc\u09a4\u09c7 \u09ad\u09bf\u099c\u09bf\u099f \u0995\u09b0\u09c1\u09a8\u0964\",\"og:image\":\"https://images.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png\",\"og:image:width\":\"1200\",\"og:url\":\"https://www.prothomalo.com\",\"og:site_name\":\"Prothomalo\"}\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"cd[Schema.org]\"\r\n\r\n[]\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"cd[JSON-LD]\"\r\n\r\n[{\"@type\":\"Organization\",\"@context\":\"http://schema.org\"},{\"@context\":\"http://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.prothomalo.com\"}]},{\"@context\":\"http://schema.org\",\"@type\":\"Organization\",\"name\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb\",\"alternateName\":\"Prothom Alo\",\"foundingDate\":\"1998-11-04\",\"url\":\"https://www.prothomalo.com\",\"sameAs\":[\"https://www.facebook.com/DailyProthomAlo\",\"https://twitter.com/ProthomAlo\",\"https://www.youtube.com/c/ProthomAlo\",\"https://www.pinterest.com/ProthomAlo/\",\"https://www.instagram.com/prothomalo/\"],\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://paloimages.prothom-alo.com/contents/themes/public/style/images/Prothom-Alo.png\"},\"image\":\"https://paloimages.prothom-alo.com/contents/themes/public/style/images/Prothom-Alo.png\",\"contactPoint\":[{\"@type\":\"ContactPoint\",\"telephone\":\"+88-02-8180078\",\"contactType\":\"customer service\"},{\"@type\":\"ContactPoint\",\"telephone\":\"+88-02-8180079\",\"contactType\":\"customer service\"},{\"@type\":\"ContactPoint\",\"telephone\":\"+88-02-8180080\",\"contactType\":\"customer service\"},{\"@type\":\"ContactPoint\",\"telephone\":\"+88-02-8180081\",\"contactType\":\"customer service\"}],\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.prothomalo.com/search?q={search_term_string}\"},\"email\":\"mailto:info@prothomalo.com\",\"telephone\":\"+88-02-8180078-81\",\"address\":{\"@type\":\"PostalAddress\",\"description\":\"\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09b8\u09b9 \u09ac\u09bf\u09b6\u09cd\u09ac\u09c7\u09b0 \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u09b8\u0982\u09ac\u09be\u09a6 \u09b6\u09bf\u09b0\u09cb\u09a8\u09be\u09ae, \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09c7\u09a6\u09a8, \u09ac\u09bf\u09b6\u09cd\u09b2\u09c7\u09b7\u09a3, \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09a8\u09cb\u09a6\u09a8, \u099a\u09be\u0995\u09b0\u09bf, \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf \u0993 \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af\u09c7\u09b0 \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09dc\u09a4\u09c7 \u09ad\u09bf\u099c\u09bf\u099f \u0995\u09b0\u09c1\u09a8\u0964\",\"postalCode\":\"1215\"}},{\"@type\":\"Website\",\"url\":\"https://www.prothomalo.com\",\"interactivityType\":\"mixed\",\"name\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb\",\"headline\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb | \u09ac\u09be\u0982\u09b2\u09be \u09a8\u09bf\u0989\u099c \u09aa\u09c7\u09aa\u09be\u09b0\",\"keywords\":\"Prothom Alo, bangla news, current News, bangla newspaper, bangladesh newspaper, online paper, bangladeshi newspaper, bangla news paper, bangladesh newspapers, newspaper, all bangla news paper, bd news paper, news paper, bangladesh news paper, daily, bangla newspaper, daily news paper, bangladeshi news paper, bangla paper, all bangla newspaper, bangladesh news, daily newspaper, \u0985\u09a8\u09b2\u09be\u0987\u09a8, \u09aa\u09a4\u09cd\u09b0\u09bf\u0995\u09be, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6, \u0986\u099c\u0995\u09c7\u09b0 \u09aa\u09a4\u09cd\u09b0\u09bf\u0995\u09be, \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995, \u0985\u09b0\u09cd\u09a5\u09a8\u09c0\u09a4\u09bf, \u0996\u09c7\u09b2\u09be, \u09ac\u09bf\u09a8\u09cb\u09a6\u09a8, \u09ab\u09bf\u099a\u09be\u09b0, \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8 \u0993 \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf, \u099a\u09b2\u099a\u09cd\u099a\u09bf\u09a4\u09cd\u09b0, \u09a2\u09be\u09b2\u09bf\u0989\u09a1, \u09ac\u09b2\u09bf\u0989\u09a1, \u09b9\u09b2\u09bf\u0989\u09a1, \u09ac\u09be\u0982\u09b2\u09be \u0997\u09be\u09a8, \u09ae\u099e\u09cd\u099a, \u099f\u09c7\u09b2\u09bf\u09ad\u09bf\u09b6\u09a8, \u09a8\u0995\u09b6\u09be, \u09b0\u09b8+\u0986\u09b2\u09cb, \u099b\u09c1\u099f\u09bf\u09b0 \u09a6\u09bf\u09a8\u09c7, \u0985\u09a7\u09c1\u09a8\u09be, \u09b8\u09cd\u09ac\u09aa\u09cd\u09a8 \u09a8\u09bf\u09af\u09bc\u09c7, \u0986\u09a8\u09a8\u09cd\u09a6, \u0985\u09a8\u09cd\u09af \u0986\u09b2\u09cb, \u09b8\u09be\u09b9\u09bf\u09a4\u09cd\u09af, \u0997\u09cb\u09b2\u09cd\u09b2\u09be\u099b\u09c1\u099f, \u09aa\u09cd\u09b0\u099c\u09a8\u09cd\u09ae \u09a1\u099f \u0995\u09ae, \u09ac\u09a8\u09cd\u09a7\u09c1\u09b8\u09ad\u09be,\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0, \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09ab\u09cb\u09a8, \u0985\u099f\u09cb\u09ae\u09cb\u09ac\u09be\u0987\u09b2, \u09ae\u09b9\u09be\u0995\u09be\u09b6, \u0997\u09c7\u09ae\u09b8, \u09ae\u09be\u09b2\u09cd\u099f\u09bf\u09ae\u09bf\u09a1\u09bf\u09af\u09bc\u09be, \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf, \u09b8\u09b0\u0995\u09be\u09b0, \u0985\u09aa\u09b0\u09be\u09a7, \u09a6\u09c1\u09b0\u09cd\u09a8\u09c0\u09a4\u09bf, \u0986\u0987\u09a8 \u0993 \u09ac\u09bf\u099a\u09be\u09b0, \u09aa\u09b0\u09bf\u09ac\u09c7\u09b6, \u09a6\u09c1\u09b0\u09cd\u0998\u099f\u09a8\u09be, \u09b8\u0982\u09b8\u09a6, \u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0, \u09b6\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09be\u099c\u09be\u09b0, \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af, \u09aa\u09cb\u09b6\u09be\u0995 \u09b6\u09bf\u09b2\u09cd\u09aa, \u0995\u09cd\u09b0\u09bf\u0995\u09c7\u099f, \u09ab\u09c1\u099f\u09ac\u09b2, \u09b2\u09be\u0987\u09ad \u09b8\u09cd\u0995\u09cb\u09b0\",\"copyrightHolder\":{\"@type\":\"NewsMediaOrganization\",\"name\":\"\u09aa\u09cd\u09b0\u09a5\u09ae \u0986\u09b2\u09cb\"},\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.prothomalo.com/search?q={q}\",\"query-input\":\"required name=q\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.prothomalo.com\"},\"@context\":\"http://schema.org\"}]\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"sw\"\r\n\r\n800\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"sh\"\r\n\r\n600\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"v\"\r\n\r\n2.9.61\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"r\"\r\n\r\nstable\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"ec\"\r\n\r\n1\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"o\"\r\n\r\n158\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"fbp\"\r\n\r\nfb.1.1653633800862.583593671\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"it\"\r\n\r\n1653677074830\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"coo\"\r\n\r\nfalse\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"es\"\r\n\r\nautomatic\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"tm\"\r\n\r\n3\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"exp\"\r\n\r\np0\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN\r\nContent-Disposition: form-data; name=\"rqm\"\r\n\r\nSB\r\n------WebKitFormBoundary0u0WxcjgeTscCSUN--\r\n",
+        "hasPostData": true,
+        "postDataEntries": [
+            {
+                "bytes": "LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpZCINCg0KMzY3MTA0MTUxMDk1OTE4DQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VODQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImV2Ig0KDQpNaWNyb2RhdGENCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZGwiDQoNCmh0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tLw0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJybCINCg0KDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VODQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImlmIg0KDQpmYWxzZQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJ0cyINCg0KMTY1MzY3NzA3NTQyMg0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjZFtEYXRhTGF5ZXJdIg0KDQpbXQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjZFtNZXRhXSINCg0KeyJ0aXRsZSI6IuCmquCnjeCmsOCmpeCmriDgpobgprLgp4sgfCDgpqzgpr7gpoLgprLgpr4g4Kao4Ka/4KaJ4KacIOCmquCnh+CmquCmvuCmsCIsIm1ldGE6ZGVzY3JpcHRpb24iOiLgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgprjgprkg4Kas4Ka/4Ka24KeN4Kas4KeH4KawIOCmuOCmsOCnjeCmrOCmtuCnh+CmtyDgprjgpoLgpqzgpr7gpqYg4Ka24Ka/4Kaw4KeL4Kao4Ka+4KauLCDgpqrgp43gprDgpqTgpr/gpqzgp4fgpqbgpqgsIOCmrOCmv+CmtuCnjeCmsuCnh+Cmt+Cmoywg4KaW4KeH4Kay4Ka+LCDgpqzgpr/gpqjgp4vgpqbgpqgsIOCmmuCmvuCmleCmsOCmvywg4Kaw4Ka+4Kac4Kao4KeA4Kak4Ka/IOCmkyDgpqzgpr7gpqPgpr/gppzgp43gpq/gp4fgprAg4Kas4Ka+4KaC4Kay4Ka+IOCmqOCmv+CmieCmnCDgpqrgp5zgpqTgp4cg4Kat4Ka/4Kac4Ka/4KafIOCmleCmsOCngeCmqOClpCIsIm1ldGE6a2V5d29yZHMiOiJQcm90aG9tIEFsbywgYmFuZ2xhIG5ld3MsIGN1cnJlbnQgTmV3cywgYmFuZ2xhIG5ld3NwYXBlciwgYmFuZ2xhZGVzaCBuZXdzcGFwZXIsIG9ubGluZSBwYXBlciwgYmFuZ2xhZGVzaGkgbmV3c3BhcGVyLCBiYW5nbGEgbmV3cyBwYXBlciwgYmFuZ2xhZGVzaCBuZXdzcGFwZXJzLCBuZXdzcGFwZXIsIGFsbCBiYW5nbGEgbmV3cyBwYXBlciwgYmQgbmV3cyBwYXBlciwgbmV3cyBwYXBlciwgYmFuZ2xhZGVzaCBuZXdzIHBhcGVyLCBkYWlseSwgYmFuZ2xhIG5ld3NwYXBlciwgZGFpbHkgbmV3cyBwYXBlciwgYmFuZ2xhZGVzaGkgbmV3cyBwYXBlciwgYmFuZ2xhIHBhcGVyLCBhbGwgYmFuZ2xhIG5ld3NwYXBlciwgYmFuZ2xhZGVzaCBuZXdzLCBkYWlseSBuZXdzcGFwZXIsIOCmheCmqOCmsuCmvuCmh+CmqCwg4Kaq4Kak4KeN4Kaw4Ka/4KaV4Ka+LCDgpqzgpr7gpoLgprLgpr7gpqbgp4fgprYsIOCmhuCmnOCmleCnh+CmsCDgpqrgpqTgp43gprDgpr/gppXgpr4sIOCmhuCmqOCnjeCmpOCmsOCnjeCmnOCmvuCmpOCmv+CmlSwg4KaF4Kaw4KeN4Kal4Kao4KeA4Kak4Ka/LCDgppbgp4fgprLgpr4sIOCmrOCmv+CmqOCni+CmpuCmqCwg4Kar4Ka/4Kaa4Ka+4KawLCDgpqzgpr/gppzgp43gpp7gpr7gpqgg4KaTIOCmquCnjeCmsOCmr+CngeCmleCnjeCmpOCmvywg4Kaa4Kay4Kaa4KeN4Kaa4Ka/4Kak4KeN4KawLCDgpqLgpr4ifQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjZFtPcGVuR3JhcGhdIg0KDQp7Im9nOnR5cGUiOiJ3ZWJzaXRlIiwib2c6dGl0bGUiOiLgpqrgp43gprDgpqXgpq4g4KaG4Kay4KeLIHwg4Kas4Ka+4KaC4Kay4Ka+IOCmqOCmv+CmieCmnCDgpqrgp4fgpqrgpr7gprAiLCJvZzpkZXNjcmlwdGlvbiI6IuCmrOCmvuCmguCmsuCmvuCmpuCnh+CmtuCmuOCmuSDgpqzgpr/gprbgp43gpqzgp4fgprAg4Ka44Kaw4KeN4Kas4Ka24KeH4Ka3IOCmuOCmguCmrOCmvuCmpiDgprbgpr/gprDgp4vgpqjgpr7gpq4sIOCmquCnjeCmsOCmpOCmv+CmrOCnh+CmpuCmqCwg4Kas4Ka/4Ka24KeN4Kay4KeH4Ka34KajLCDgppbgp4fgprLgpr4sIOCmrOCmv+CmqOCni+CmpuCmqCwg4Kaa4Ka+4KaV4Kaw4Ka/LCDgprDgpr7gppzgpqjgp4DgpqTgpr8g4KaTIOCmrOCmvuCmo+Cmv+CmnOCnjeCmr+Cnh+CmsCDgpqzgpr7gpoLgprLgpr4g4Kao4Ka/4KaJ4KacIOCmquCnnOCmpOCnhyDgpq3gpr/gppzgpr/gpp8g4KaV4Kaw4KeB4Kao4KWkIiwib2c6aW1hZ2UiOiJodHRwczovL2ltYWdlcy5wcm90aG9tYWxvLmNvbS9wcm90aG9tYWxvLWJhbmdsYS8yMDIxLTAxLzFkNzUxNTFjLWVmZjktNGU5Zi1hYzI4LWFlYmM0NjE4ZDAwZi9wYWxvX2JhbmdsYV9vZy5wbmciLCJvZzppbWFnZTp3aWR0aCI6IjEyMDAiLCJvZzp1cmwiOiJodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbSIsIm9nOnNpdGVfbmFtZSI6IlByb3Rob21hbG8ifQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjZFtTY2hlbWEub3JnXSINCg0KW10NCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iY2RbSlNPTi1MRF0iDQoNClt7IkB0eXBlIjoiT3JnYW5pemF0aW9uIiwiQGNvbnRleHQiOiJodHRwOi8vc2NoZW1hLm9yZyJ9LHsiQGNvbnRleHQiOiJodHRwOi8vc2NoZW1hLm9yZyIsIkB0eXBlIjoiQnJlYWRjcnVtYkxpc3QiLCJpdGVtTGlzdEVsZW1lbnQiOlt7IkB0eXBlIjoiTGlzdEl0ZW0iLCJwb3NpdGlvbiI6MSwibmFtZSI6IkhvbWUiLCJpdGVtIjoiaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20ifV19LHsiQGNvbnRleHQiOiJodHRwOi8vc2NoZW1hLm9yZyIsIkB0eXBlIjoiT3JnYW5pemF0aW9uIiwibmFtZSI6IuCmquCnjeCmsOCmpeCmriDgpobgprLgp4siLCJhbHRlcm5hdGVOYW1lIjoiUHJvdGhvbSBBbG8iLCJmb3VuZGluZ0RhdGUiOiIxOTk4LTExLTA0IiwidXJsIjoiaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20iLCJzYW1lQXMiOlsiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0RhaWx5UHJvdGhvbUFsbyIsImh0dHBzOi8vdHdpdHRlci5jb20vUHJvdGhvbUFsbyIsImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvUHJvdGhvbUFsbyIsImh0dHBzOi8vd3d3LnBpbnRlcmVzdC5jb20vUHJvdGhvbUFsby8iLCJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3Byb3Rob21hbG8vIl0sImxvZ28iOnsiQHR5cGUiOiJJbWFnZU9iamVjdCIsInVybCI6Imh0dHBzOi8vcGFsb2ltYWdlcy5wcm90aG9tLWFsby5jb20vY29udGVudHMvdGhlbWVzL3B1YmxpYy9zdHlsZS9pbWFnZXMvUHJvdGhvbS1BbG8ucG5nIn0sImltYWdlIjoiaHR0cHM6Ly9wYWxvaW1hZ2VzLnByb3Rob20tYWxvLmNvbS9jb250ZW50cy90aGVtZXMvcHVibGljL3N0eWxlL2ltYWdlcy9Qcm90aG9tLUFsby5wbmciLCJjb250YWN0UG9pbnQiOlt7IkB0eXBlIjoiQ29udGFjdFBvaW50IiwidGVsZXBob25lIjoiKzg4LTAyLTgxODAwNzgiLCJjb250YWN0VHlwZSI6ImN1c3RvbWVyIHNlcnZpY2UifSx7IkB0eXBlIjoiQ29udGFjdFBvaW50IiwidGVsZXBob25lIjoiKzg4LTAyLTgxODAwNzkiLCJjb250YWN0VHlwZSI6ImN1c3RvbWVyIHNlcnZpY2UifSx7IkB0eXBlIjoiQ29udGFjdFBvaW50IiwidGVsZXBob25lIjoiKzg4LTAyLTgxODAwODAiLCJjb250YWN0VHlwZSI6ImN1c3RvbWVyIHNlcnZpY2UifSx7IkB0eXBlIjoiQ29udGFjdFBvaW50IiwidGVsZXBob25lIjoiKzg4LTAyLTgxODAwODEiLCJjb250YWN0VHlwZSI6ImN1c3RvbWVyIHNlcnZpY2UifV0sInBvdGVudGlhbEFjdGlvbiI6eyJAdHlwZSI6IlNlYXJjaEFjdGlvbiIsInRhcmdldCI6Imh0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tL3NlYXJjaD9xPXtzZWFyY2hfdGVybV9zdHJpbmd9In0sImVtYWlsIjoibWFpbHRvOmluZm9AcHJvdGhvbWFsby5jb20iLCJ0ZWxlcGhvbmUiOiIrODgtMDItODE4MDA3OC04MSIsImFkZHJlc3MiOnsiQHR5cGUiOiJQb3N0YWxBZGRyZXNzIiwiZGVzY3JpcHRpb24iOiLgpqzgpr7gpoLgprLgpr7gpqbgp4fgprbgprjgprkg4Kas4Ka/4Ka24KeN4Kas4KeH4KawIOCmuOCmsOCnjeCmrOCmtuCnh+CmtyDgprjgpoLgpqzgpr7gpqYg4Ka24Ka/4Kaw4KeL4Kao4Ka+4KauLCDgpqrgp43gprDgpqTgpr/gpqzgp4fgpqbgpqgsIOCmrOCmv+CmtuCnjeCmsuCnh+Cmt+Cmoywg4KaW4KeH4Kay4Ka+LCDgpqzgpr/gpqjgp4vgpqbgpqgsIOCmmuCmvuCmleCmsOCmvywg4Kaw4Ka+4Kac4Kao4KeA4Kak4Ka/IOCmkyDgpqzgpr7gpqPgpr/gppzgp43gpq/gp4fgprAg4Kas4Ka+4KaC4Kay4Ka+IOCmqOCmv+CmieCmnCDgpqrgp5zgpqTgp4cg4Kat4Ka/4Kac4Ka/4KafIOCmleCmsOCngeCmqOClpCIsInBvc3RhbENvZGUiOiIxMjE1In19LHsiQHR5cGUiOiJXZWJzaXRlIiwidXJsIjoiaHR0cHM6Ly93d3cucHJvdGhvbWFsby5jb20iLCJpbnRlcmFjdGl2aXR5VHlwZSI6Im1peGVkIiwibmFtZSI6IuCmquCnjeCmsOCmpeCmriDgpobgprLgp4siLCJoZWFkbGluZSI6IuCmquCnjeCmsOCmpeCmriDgpobgprLgp4sgfCDgpqzgpr7gpoLgprLgpr4g4Kao4Ka/4KaJ4KacIOCmquCnh+CmquCmvuCmsCIsImtleXdvcmRzIjoiUHJvdGhvbSBBbG8sIGJhbmdsYSBuZXdzLCBjdXJyZW50IE5ld3MsIGJhbmdsYSBuZXdzcGFwZXIsIGJhbmdsYWRlc2ggbmV3c3BhcGVyLCBvbmxpbmUgcGFwZXIsIGJhbmdsYWRlc2hpIG5ld3NwYXBlciwgYmFuZ2xhIG5ld3MgcGFwZXIsIGJhbmdsYWRlc2ggbmV3c3BhcGVycywgbmV3c3BhcGVyLCBhbGwgYmFuZ2xhIG5ld3MgcGFwZXIsIGJkIG5ld3MgcGFwZXIsIG5ld3MgcGFwZXIsIGJhbmdsYWRlc2ggbmV3cyBwYXBlciwgZGFpbHksIGJhbmdsYSBuZXdzcGFwZXIsIGRhaWx5IG5ld3MgcGFwZXIsIGJhbmdsYWRlc2hpIG5ld3MgcGFwZXIsIGJhbmdsYSBwYXBlciwgYWxsIGJhbmdsYSBuZXdzcGFwZXIsIGJhbmdsYWRlc2ggbmV3cywgZGFpbHkgbmV3c3BhcGVyLCDgpoXgpqjgprLgpr7gpofgpqgsIOCmquCmpOCnjeCmsOCmv+CmleCmviwg4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2LCDgpobgppzgppXgp4fgprAg4Kaq4Kak4KeN4Kaw4Ka/4KaV4Ka+LCDgpobgpqjgp43gpqTgprDgp43gppzgpr7gpqTgpr/gppUsIOCmheCmsOCnjeCmpeCmqOCngOCmpOCmvywg4KaW4KeH4Kay4Ka+LCDgpqzgpr/gpqjgp4vgpqbgpqgsIOCmq+Cmv+CmmuCmvuCmsCwg4Kas4Ka/4Kac4KeN4Kae4Ka+4KaoIOCmkyDgpqrgp43gprDgpq/gp4HgppXgp43gpqTgpr8sIOCmmuCmsuCmmuCnjeCmmuCmv+CmpOCnjeCmsCwg4Kai4Ka+4Kay4Ka/4KaJ4KahLCDgpqzgprLgpr/gpongpqEsIOCmueCmsuCmv+CmieCmoSwg4Kas4Ka+4KaC4Kay4Ka+IOCml+CmvuCmqCwg4Kau4Kae4KeN4KaaLCDgpp/gp4fgprLgpr/gpq3gpr/gprbgpqgsIOCmqOCmleCmtuCmviwg4Kaw4Ka4K+CmhuCmsuCniywg4Kab4KeB4Kaf4Ka/4KawIOCmpuCmv+CmqOCnhywg4KaF4Kan4KeB4Kao4Ka+LCDgprjgp43gpqzgpqrgp43gpqgg4Kao4Ka/4Kav4Ka84KeHLCDgpobgpqjgpqjgp43gpqYsIOCmheCmqOCnjeCmryDgpobgprLgp4ssIOCmuOCmvuCmueCmv+CmpOCnjeCmrywg4KaX4KeL4Kay4KeN4Kay4Ka+4Kab4KeB4KafLCDgpqrgp43gprDgppzgpqjgp43gpq4g4Kah4KafIOCmleCmriwg4Kas4Kao4KeN4Kan4KeB4Ka44Kat4Ka+LOCmleCmruCnjeCmquCmv+CmieCmn+CmvuCmsCwg4Kau4KeL4Kas4Ka+4KaH4KayIOCmq+Cni+CmqCwg4KaF4Kaf4KeL4Kau4KeL4Kas4Ka+4KaH4KayLCDgpq7gprngpr7gppXgpr7gprYsIOCml+Cnh+CmruCmuCwg4Kau4Ka+4Kay4KeN4Kaf4Ka/4Kau4Ka/4Kah4Ka/4Kav4Ka84Ka+LCDgprDgpr7gppzgpqjgp4DgpqTgpr8sIOCmuOCmsOCmleCmvuCmsCwg4KaF4Kaq4Kaw4Ka+4KanLCDgpqbgp4HgprDgp43gpqjgp4DgpqTgpr8sIOCmhuCmh+CmqCDgppMg4Kas4Ka/4Kaa4Ka+4KawLCDgpqrgprDgpr/gpqzgp4fgprYsIOCmpuCngeCmsOCnjeCmmOCmn+CmqOCmviwg4Ka44KaC4Ka44KamLCDgprDgpr7gppzgpqfgpr7gpqjgp4AsIOCmtuCnh+Cmr+CmvOCmvuCmsCDgpqzgpr7gppzgpr7gprAsIOCmrOCmvuCmo+Cmv+CmnOCnjeCmrywg4Kaq4KeL4Ka24Ka+4KaVIOCmtuCmv+CmsuCnjeCmqiwg4KaV4KeN4Kaw4Ka/4KaV4KeH4KafLCDgpqvgp4Hgpp/gpqzgprIsIOCmsuCmvuCmh+CmrSDgprjgp43gppXgp4vgprAiLCJjb3B5cmlnaHRIb2xkZXIiOnsiQHR5cGUiOiJOZXdzTWVkaWFPcmdhbml6YXRpb24iLCJuYW1lIjoi4Kaq4KeN4Kaw4Kal4KauIOCmhuCmsuCniyJ9LCJwb3RlbnRpYWxBY3Rpb24iOnsiQHR5cGUiOiJTZWFyY2hBY3Rpb24iLCJ0YXJnZXQiOiJodHRwczovL3d3dy5wcm90aG9tYWxvLmNvbS9zZWFyY2g/cT17cX0iLCJxdWVyeS1pbnB1dCI6InJlcXVpcmVkIG5hbWU9cSJ9LCJtYWluRW50aXR5T2ZQYWdlIjp7IkB0eXBlIjoiV2ViUGFnZSIsIkBpZCI6Imh0dHBzOi8vd3d3LnByb3Rob21hbG8uY29tIn0sIkBjb250ZXh0IjoiaHR0cDovL3NjaGVtYS5vcmcifV0NCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ic3ciDQoNCjgwMA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJzaCINCg0KNjAwDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VODQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9InYiDQoNCjIuOS42MQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJyIg0KDQpzdGFibGUNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZWMiDQoNCjENCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibyINCg0KMTU4DQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VODQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImZicCINCg0KZmIuMS4xNjUzNjMzODAwODYyLjU4MzU5MzY3MQ0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJpdCINCg0KMTY1MzY3NzA3NDgzMA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjb28iDQoNCmZhbHNlDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VODQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImVzIg0KDQphdXRvbWF0aWMNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0idG0iDQoNCjMNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeTB1MFd4Y2pnZVRzY0NTVU4NCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZXhwIg0KDQpwMA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5MHUwV3hjamdlVHNjQ1NVTg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJycW0iDQoNClNCDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnkwdTBXeGNqZ2VUc2NDU1VOLS0NCg=="
+            }
+        ],
+        "mixedContentType": "none",
+        "initialPriority": "VeryLow",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/amp4ads-v0.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "origin",
+        "isLinkPreload": true,
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/v0/amp-ad-exit-0.1.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/v0/amp-analytics-0.1.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/v0/amp-animation-0.1.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/v0/amp-fit-text-0.1.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://cdn.ampproject.org/rtv/012205161914000/v0/amp-form-0.1.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB/SURBVBjTbZAJEsAgCAPDD/L/11YhoThqLxlX3AZ4j6ixJohRgblK3a5iExhXVkmQjbrq9T05aPfm7K2zu7NMPEy2N8wjObH7aEiAY1M55FO7BSefuIQoMOoY9b9M6sXpDWmcCZYJFVAnKIMrQbvQ0k5Ev3Ak6NZl0yZ/juv7AYYOBkSxEdabAAAAAElFTkSuQmCC",
+        "method": "GET",
+        "headers": {
+            "Referer": "",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/images/abg/bn.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/images/abg/icon.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google.com/ads/measurement/l?ebcid=ALh7CaTnjQHoYPRmOMgldtCm_vYghdnRGs4H2Nl5LBXRG_08nNfhgnbF7erJh3dR8KxgRI_RvPGx3kz9158WnEaEYQ-2OORoZg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/pagead/adview?ai=CBZYbExyRYoOWC6iPssUP_KGnuA32s-ShapOjwLGeELGnkNsFEAEgsqnvJmAzoAGd8JmiA8gBCeACAKgDAcgDCKoE7QFP0E_zKq4UrVovKQkuM7EqdYfCmrTM3YXYQYaJMxbEKcVKo0wCnZzn5M66jYAU5m0fmuNlWzYa2L8lSfV4dhGkVLgScNVA5F66AXICKyClNFWGVBbuVaHLWkW3PE4Y64E1vnIZZL57OTSMmcoHIshaRX-mYJhzLxODk4RXT1NRLsp6eu5UrZInW5GH8JUztflAT6g1D2xM7xgSn-S9s18WEHTeqzi9Y19e2Wm2DN751pjSUvb7HVDOKbp0llL1WwaECmB3y8BiyrEfu3ff3YMHl5eQOhiCx9zxfWH3KAisf0KtRsG7FossaazgStXABPiP7-f_A-AEAaAGLoAHufXEYagHjs4bqAeT2BuoB-6WsQKoB_6esQKoB6SjsQKoB9XJG6gHpr4b2AcA8gcEENeMDtIIBwiAYRABGB2ACgPICwHYEwPQFQGYFgGAFwGyFx4KHAgAEhRwdWItODM0OTM2ODAyNzQ5OTkwMhjirBY&sigh=1gjoOztnZnw&uach_m=[UACH]&template_id=419",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/sadbundle/1449433226735864550/300x250_2.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/sadbundle/1449433226735864550/300x250.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/sadbundle/1449433226735864550/300x250_1.png",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20220525/r20110914/abg_lite.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/safeframe/1-0-38/js/ext.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/879366/dfa7banner_html_inpage_rendering_lib_200_268.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "Origin": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvoBhzAuw1DSfFFcanABnezEt09Uef_KceE_n86sdDK0MjDpBPbJaiWlzsv9GQfZcSkRMbAzr4wDwkVFTl29MLXLTUFETcoziFlZrvS7jO2xojYMkFE8J1ZkHMu6eb8kVrsGxLdN-xCYdmd0wRwTUBXef3oh2uAj3d3yqa15dCGjSqkPjFJyMHrxumRKfEH4Qo9dR-1n0EHPyuM_tqoLNqOApsUNosg3SKovukbxACxsO_WfC2yqLYp9gmvAcPnKonqegiSi4RmT0nwT2VOI_3kl8t0KIp_RyscKXsrv08uOESVFPxiVkiV4tUXH7U&sig=Cg0ArKJSzAG-raQln772EAE&uach_m=[UACH]&urlfix=1&adurl=",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdpage_style.css",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdpagedeck_style.css",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdgooglead_style.css",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdimage_style.css",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdtaparea_style.css",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/googbase_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwd_webcomponents_v1_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdpage_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdpagedeck_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/879366/DcmEnabler_01_243.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdgooglead_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdimage_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwdtaparea_min.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gwd-events-support.1.0.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/samsung_logo_white.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/cta_buy_now_2.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/price_1.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/gb_1.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/sp4.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/sp3.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/sp2.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/sp1.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/copy.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/galaxy_m33_5g.svg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/320x100.jpg",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://s0.2mdn.net/dfp/366178/4610914220/1653570500938/index.html",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst-YLvOLUBwxaP4-CLsfXO_eSpziy8TFlNUaHQ6qsx9K6o37UtinMLKRDblHVbTuWQ7sKwwApfq_6Em6lnSsoloMzWiMBQDun8f8sa_GRmevLH6K53DguNI9AKAoDBAk8Er2shZzq18REX1pA8DeFMmf9h9WRVVu3I4socKqNgLJ_iycggna59tbm8-oZ-_7iXivFtvnoGe4q0fB8KldIa1P-_dvc-USUgXPKI_Esm2vVDlw4nQKl36tWJ2EIFVWGhijfaynxy9XkXUTsayDAJm3CoQUgDw_gZOnc08UmyXA6r4emIqBzqmhe70c0uMWg&sig=Cg0ArKJSzKt5kgPnsSQXEAE&uach_m=[UACH]&urlfix=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIixbXSxmYWxzZV0%3D&adurl=",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gpt&tv=2022052501&st=env",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1225848476&t=event&ni=0&_s=1&dl=https%3A%2F%2Fwww.prothomalo.com%2F&ul=en-us&de=UTF-8&dt=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%20%E0%A6%86%E0%A6%B2%E0%A7%8B%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%20%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B0&sd=24-bit&sr=800x600&vp=783x600&je=0&ec=undefined&ea=undefined&ev=0&_u=SACAAUABAAAAAC~&jid=1195543252&gjid=656333264&cid=245044883.1653633798&tid=UA-11355905-1&_gid=1608392930.1653633798&_r=1&gtm=2wg5p1TDCC7GQ&z=1206253421",
+        "method": "POST",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": "",
+            "Content-Type": "text/plain"
+        },
+        "hasPostData": true,
+        "postDataEntries": [
+            {
+                "bytes": ""
+            }
+        ],
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google-analytics.com/collect?v=1&_v=j96&a=1225848476&t=event&ni=1&_s=1&dl=https%3A%2F%2Fwww.prothomalo.com%2F&ul=en-us&de=UTF-8&dt=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%20%E0%A6%86%E0%A6%B2%E0%A7%8B%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%20%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B0&sd=24-bit&sr=800x600&vp=783x600&je=0&ec=Total%20Scroll&ea=Total%20Scroll%20Desktop&el=https%3A%2F%2Fwww.prothomalo.com%2F&_u=SACAAUABAAAAAC~&jid=&gjid=&cid=245044883.1653633798&tid=UA-11355905-1&_gid=1608392930.1653633798&gtm=2wg5p1TDCC7GQ&z=1996010622",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-C4T51Z1NR8&gtm=2oe5p1&_p=1225848476&_z=ccd.tdB&cid=245044883.1653633798&ul=en-us&sr=800x600&_s=1&sid=1653633799&sct=1&seg=1&dl=https%3A%2F%2Fwww.prothomalo.com%2F&dt=%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%20%E0%A6%86%E0%A6%B2%E0%A7%8B%20%7C%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%20%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B0&en=page_view",
+        "method": "POST",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "hasPostData": true,
+        "postDataEntries": [
+            {
+                "bytes": ""
+            }
+        ],
+        "mixedContentType": "none",
+        "initialPriority": "VeryLow",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvZ8-KhXGHm6VsKO3eVwHHsP9yDe8GDPdtf5nXv6OqzcKPa2pOeuU7xtKx8rKCl_69CpYU1ETtMQJS_WYHFaMUQFeuz-1b_Hl8HVcTRgLABDDlCLVHg&sig=Cg0ArKJSzNRuyPuRd86kEAE&id=lidar2&mcvt=1003&p=74,232,174,552&mtos=1003,1003,1003,1003,1003&tos=1003,0,0,0,0&v=20220525&bin=7&avms=nio&bs=0,0&mc=1&if=1&app=0&itpl=30&adk=2087344971&rs=4&la=0&cr=0&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIixbXSxmYWxzZV0%3D&vs=4&r=v&rst=1653677076348&rpt=1117&isd=0&lsd=0&met=ie&wmsd=0",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://6b4086aa3b852ba7d16c8b28bb99a489.safeframe.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-11355905-1&cid=245044883.1653633798&jid=1195543252&gjid=656333264&_gid=1608392930.1653633798&_u=SACAAUABAAAAAC~&z=1844300571",
+        "method": "POST",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": "",
+            "Content-Type": "text/plain"
+        },
+        "hasPostData": true,
+        "postDataEntries": [
+            {
+                "bytes": ""
+            }
+        ],
+        "mixedContentType": "none",
+        "initialPriority": "High",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-11355905-1&cid=245044883.1653633798&jid=1195543252&_u=SACAAUABAAAAAC~&z=26874263",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google.com.bd/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-11355905-1&cid=245044883.1653633798&jid=1195543252&_u=SACAAUABAAAAAC~&z=26874263",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/sodar/sodar2.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.prothomalo.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://www.google.com/recaptcha/api2/aframe",
+        "method": "GET",
+        "headers": {
+            "Referer": "https://www.prothomalo.com/",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36"
+        },
+        "mixedContentType": "none",
+        "initialPriority": "VeryHigh",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/bg/BlV8lHKGnk03wUyhHWlg9fV4CiK26Crs8dLo7bQbDuA.js",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://tpc.googlesyndication.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&li=gpt_2022052501&jk=1202429852472949&rc=null",
+        "method": "GET",
+        "headers": {
+            "sec-ch-ua": "",
+            "Referer": "https://www.google.com/",
+            "sec-ch-ua-mobile": "?0",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4951.67 Safari/537.36",
+            "sec-ch-ua-platform": ""
+        },
+        "mixedContentType": "none",
+        "initialPriority": "Low",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "isSameSite": false
+    }
+]
